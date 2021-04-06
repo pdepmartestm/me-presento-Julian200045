@@ -1,6 +1,6 @@
  # Julián Agustín Carretto
 
-![](http://url/to/profile-pic.jpg)
+![Foto de perfil](http://url/to/profile-pic.jpg)
 
 ## Legajo: 1761079
 
