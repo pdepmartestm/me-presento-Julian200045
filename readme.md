@@ -1,6 +1,6 @@
  # Julián Agustín Carretto
 
-![Foto de perfil](https://github.com/pdepmartestm/me-presento-Julian200045/blob/main/profile-pic.jpg)
+<img src="https://github.com/pdepmartestm/me-presento-Julian200045/blob/main/profile-pic.jpg" width="200px" height="200px">
 
 ## Legajo: 1761079
 
